@@ -21,7 +21,7 @@
 
 Telecommunications Electrical Engineer with extensive knowledge in computer networks and TCP/IP architecture, proficient in data analysis, Docker, and Backend with Django,delivering consistent results.
 
-In the midst of a career transition, I am seeking to deepen my knowledge and skills in application migration to the cloud, with a focus on 
+ I am seeking to deepen my knowledge and skills in application migration to the cloud, with a focus on 
 
 the AWS platform. Aimed at optimizing costs and enhancing performance through cloud computing.
 
